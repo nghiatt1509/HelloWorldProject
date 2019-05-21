@@ -6,6 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            //Print out "Hello World" to command line 
             Console.WriteLine("Hello World!");
         }
     }
